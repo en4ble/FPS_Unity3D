@@ -1,0 +1,102 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1267]
+    Renderer: AMD Radeon HD 6800 Series
+    Vendor:   ATI
+    VRAM:     1011 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Mo\Documents\Unity\Multiplayer_FPS_Unity3D\Builds\current_version_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Mo\Documents\Unity\Multiplayer_FPS_Unity3D\Builds\current_version_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Mo\Documents\Unity\Multiplayer_FPS_Unity3D\Builds\current_version_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Mo\Documents\Unity\Multiplayer_FPS_Unity3D\Builds\current_version_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Mo\Documents\Unity\Multiplayer_FPS_Unity3D\Builds\current_version_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Mo\Documents\Unity\Multiplayer_FPS_Unity3D\Builds\current_version_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Mo\Documents\Unity\Multiplayer_FPS_Unity3D\Builds\current_version_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Mo\Documents\Unity\Multiplayer_FPS_Unity3D\Builds\current_version_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.102 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1633)
+
+A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1170)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1633)
+
+A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 64 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1170)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1633)
+
+A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 32 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1170)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1633)
+
+A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 28 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1170)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1633)
+
+A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 28 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1170)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1633)
+
+A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 28 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1170)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1633)
+
+A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 28 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1170)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1633)
+
+A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 28 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1170)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1633)
+
+A script behaviour has a different serialization layout when loading. (Read 24 bytes but expected 28 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1170)
+

@@ -1,0 +1,30 @@
+##############################################################
+######################## FEATURES of #########################
+#################### First Person Shooter ####################
+############ _made by Moritz Rettich with Unity3D ############
+##############################################################
+
+> Movement
+    ~ walk
+    ~ jump
+    ~ jet
+    ~ ski
+    ~ bouncing off surfaces
+
+> Weapon(s)
+    ~ pistol (hitscan)
+    ~ automatic
+    ~ knife
+    ~ hitting events
+    
+> Map(s)
+    ~ simple Map
+    
+> Multiplayer
+    ~ different Teams, different colors/textures
+        ~ no friendly fire
+    ~ FFA aka renegade
+    ~ chat (enter)
+
+> Gameplay
+    ~ settings (esc)

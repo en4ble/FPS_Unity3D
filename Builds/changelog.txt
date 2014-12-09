@@ -1,0 +1,36 @@
+##############################################################
+######################## CHANGELOG of ########################
+#################### First Person Shooter ####################
+############ _made by Moritz Rettich with Unity3D ############
+##############################################################
+
+    >>> recently added
+        ~ simple weapon GUI
+            ~ bullets
+            ~ magazines
+        ~ more weapons
+            ~ pistol
+                ~ 0.5 cooldown
+                ~ 15 dmg
+                ~ 3 reloading time
+                ~ 10 magazin size
+                ~ 7 magazines
+            ~ automatic
+                ~ 0.12 cooldown
+                ~ 8 dmg
+                ~ 4 reloading time
+                ~ 30 magazin size
+                ~ 4 magazines
+            ~ knife
+                ~ 1.2 cooldown
+                ~ 70 dmg
+                ~ 2 range
+    
+    >>> recently changed
+        
+    
+    >>> recently removed
+        
+
+    >>> currently in development
+        ~ map?

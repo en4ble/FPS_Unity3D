@@ -1,0 +1,29 @@
+>> Weapons
+    ~ different/more weapons
+        ~ splash weapons
+            ~ dmg proportional to distance (begr. Abnahme)
+        ~ no hitscan weapons
+    ~ dmg proportional to distance (begr. Abnahme)
+    
+>> Gameplay
+    ~ better/different map(s)
+    ~ respawn timer
+    
+>> Graphics
+    ~ knife animation
+    ~ bullets/magazines GUI
+    ~ flexible crosshair
+    ~ redesign graphics/models/UI
+    
+>> later
+    ~ Bots
+    ~ different Hitboxes
+    ~ credits
+    
+>> finished (for now)
+    ~ hit animation
+    ~ movement {run, jump, ski, jet} (maybe add dashes later)
+    ~ SP/MP
+    ~ 3D audio
+    ~ first person view
+    ~ settings menu
