@@ -11,4 +11,4 @@ It is based on the Photon Network plugin.
 You want to test my game? Just get updated .exe in the [`Builds`](https://github.com/en4ble/FPS_Unity3D/tree/master/Builds) folder along with the data folder in there.
 
 --
-##### Moritz **Rettich** \<moritz.rettich@tirionnetwork.de>
+##### Moritz **Rettich** \<m@mrettich.org>
